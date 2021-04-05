@@ -1,0 +1,1 @@
+DROP TABLE zno_ua19_20 CASCADE;
